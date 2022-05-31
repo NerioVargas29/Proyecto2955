@@ -1,0 +1,49 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#conteitemcarrusel{
+    height: 500px;
+    overflow: hidden;
+}
+
+.itemcarrusel{
+   
+    height: 500px;
+    position: relative;
+}
+
+.tarjetacarrusel{
+
+    height: 100%;
+}
+
+.flechacarrusel{
+   
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+i {
+    color: white;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+  
+}

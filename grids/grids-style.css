@@ -1,0 +1,15 @@
+.grid-container{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    gap:10px;
+}
+
+.boda-1{
+    width: 100%;
+}
+
+.boda-2{
+    width: 100%;
+}

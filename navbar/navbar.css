@@ -1,0 +1,23 @@
+.nav-enlace{
+    background:#1e5128 ;
+    color:white;
+    padding: 10px 30px ;
+    margin: 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius:20px 5px 15px 40px;
+}
+
+.nav-enlace:hover {
+    background-color: #082032; 
+}
+
+nav{
+    padding-right:15px;
+    margin-right:10px;
+    background-color: #082032;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:end;
+    justify-items: center;
+}
